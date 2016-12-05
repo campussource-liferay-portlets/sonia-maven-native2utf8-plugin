@@ -4,12 +4,12 @@
   <modelVersion>4.0.0</modelVersion>
   
   <parent>
-    <groupId>sonia.maven</groupId>
+    <groupId>de.sonia.maven</groupId>
     <artifactId>sonia-maven-parent</artifactId>
-    <version>7</version>
+    <version>1-SNAPSHOT</version>
   </parent>
 
-  <groupId>sonia.maven</groupId>
+  <groupId>de.sonia.maven</groupId>
   <artifactId>sonia-maven-native2utf8-plugin</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>maven-plugin</packaging>
