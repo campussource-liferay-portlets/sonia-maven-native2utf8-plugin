@@ -11,7 +11,7 @@
 
   <groupId>de.sonia.maven</groupId>
   <artifactId>sonia-maven-native2utf8-plugin</artifactId>
-  <version>1.0.1-SNBAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>maven-plugin</packaging>
   <name>SONIA Maven native2utf8 Plugin</name>
 
