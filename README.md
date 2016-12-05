@@ -1,0 +1,1 @@
+# sonia-maven-native2utf8-plugin
