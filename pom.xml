@@ -11,9 +11,26 @@
 
   <groupId>de.sonia.maven</groupId>
   <artifactId>sonia-maven-native2utf8-plugin</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>maven-plugin</packaging>
   <name>SONIA Maven native2utf8 Plugin</name>
+
+  <description>MAVEN PLUGIN: Converting native charset to utf8 on properties files</description>
+  
+  <scm>
+    <connection>scm:git:https://github.com/campussource-liferay-portlets/sonia-maven-native2utf8-plugin</connection>
+    <developerConnection>scm:git:https://github.com/campussource-liferay-portlets/sonia-maven-native2utf8-plugin</developerConnection>
+    <url>https://github.com/campussource-liferay-portlets/sonia-maven-native2utf8-plugin</url>
+  </scm>
+  
+  <developers>  
+    <developer>
+      <id>thorsten-l</id>
+      <name>Thorsten Ludewig</name>
+      <email>t.ludewig@ostfalia.de</email>
+      <timezone>Europe/Berlin</timezone>
+    </developer>
+  </developers>
 
   <dependencies>
     <dependency>
